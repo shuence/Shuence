@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOH6i7Hw",
+      "name": "Shuence",
+      "createdAt": "2022-08-31T15:45:51Z",
+      "url": "https://github.com/shuence/Shuence",
+      "description": "Personal Portfolio Website using Reactjs ✨",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKqiJHw",
+      "name": "ELocate",
+      "createdAt": "2023-11-07T16:25:54Z",
+      "url": "https://github.com/shuence/ELocate",
+      "description": "E waste Facility Locator & Recycling Platform ♻️",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJ5Hrag",
+      "name": "TravelWorld",
+      "createdAt": "2023-07-08T10:22:37Z",
+      "url": "https://github.com/shuence/TravelWorld",
+      "description": "TravelWorld - A Fullstack Tours & Travels Web App",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJFQRpQ",
+      "name": "FitClub",
+      "createdAt": "2023-03-04T10:33:23Z",
+      "url": "https://github.com/shuence/FitClub",
+      "description": "FitClub : A best Fitness Club Landing Page In Reactjs",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGZaj1A",
+      "name": "Squid-Game",
+      "createdAt": "2021-11-18T05:03:37Z",
+      "url": "https://github.com/shuence/Squid-Game",
+      "description": "A squid game - Red Light Green light",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOI1jT8Q",
+      "name": "AurangabadPloggers",
+      "createdAt": "2023-01-25T03:18:20Z",
+      "url": "https://github.com/shuence/AurangabadPloggers",
+      "description": "An NGO Website",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
