@@ -5,7 +5,7 @@
   "homepage": "https://shuence.com",
   "scripts": {
     "build": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
-    "postbuild":"rimraf build/static/**/*.map",
+    "postbuild": "rimraf build/static/**/*.map",
     "deploy": "yarn gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "fetch": "yarn node git_data_fetcher.mjs",
@@ -19,7 +19,8 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "fs": "0.0.1-security",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^6.1.1",
+    "global": "^4.4.0",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
     "prettier-package-json": "^2.1.3",
