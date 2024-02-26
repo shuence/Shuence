@@ -2,6 +2,26 @@
   "closed": 14,
   "data": [
     {
+      "id": "I_kwDOJFQEKs6AT-CT",
+      "closed": false,
+      "title": "The Api Keys and Database Credentials  are clearly visible ",
+      "createdAt": "2024-02-25T11:24:38Z",
+      "url": "https://github.com/AOSSIE-Org/Resonate/issues/273",
+      "number": 273,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Resonate",
+        "url": "https://github.com/AOSSIE-Org/Resonate",
+        "owner": {
+          "login": "AOSSIE-Org",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38881995?v=4",
+          "url": "https://github.com/AOSSIE-Org"
+        }
+      }
+    },
+    {
       "id": "I_kwDOAPA-oM5hg7Qg",
       "closed": true,
       "title": "[Feature] Adding Footer",
@@ -380,6 +400,6 @@
       }
     }
   ],
-  "open": 4,
-  "totalCount": 18
+  "open": 5,
+  "totalCount": 19
 }

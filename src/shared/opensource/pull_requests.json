@@ -2,31 +2,6 @@
   "closed": 3,
   "data": [
     {
-      "id": "PR_kwDOK9eZ6M5ivf-v",
-      "title": "Fixed error progress bar not showing up",
-      "url": "https://github.com/sanika391/Sanika-s-Portfolio/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/116996971?v=4",
-        "url": "https://github.com/sanika391",
-        "login": "sanika391"
-      },
-      "createdAt": "2023-12-25T13:25:52Z",
-      "number": 1,
-      "changedFiles": 1,
-      "additions": 16,
-      "deletions": 12,
-      "baseRepository": {
-        "name": "Sanika-s-Portfolio",
-        "url": "https://github.com/sanika391/Sanika-s-Portfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/116996971?v=4",
-          "login": "sanika391",
-          "url": "https://github.com/sanika391"
-        }
-      }
-    },
-    {
       "id": "PR_kwDOKqiJH85f11UT",
       "title": "Adding map",
       "url": "https://github.com/shuence/ELocate/pull/6",
@@ -457,7 +432,7 @@
       }
     }
   ],
-  "merged": 14,
+  "merged": 13,
   "open": 2,
-  "totalCount": 19
+  "totalCount": 18
 }

@@ -31,12 +31,30 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "TypeScript",
+          "iconifyClass": "vscode-icons:file-type-typescript-official"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLIAD_g",
+      "name": "SpoonShare",
+      "createdAt": "2024-01-22T10:02:05Z",
+      "url": "https://github.com/shuence/SpoonShare",
+      "description": "SpoonShare: An app connecting users to share free food, donate, and access local ngo, supporting the UN's Zero Hunger goal.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos:dart"
         }
       ]
     },
@@ -81,28 +99,6 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGZaj1A",
-      "name": "Squid-Game",
-      "createdAt": "2021-11-18T05:03:37Z",
-      "url": "https://github.com/shuence/Squid-Game",
-      "description": "A squid game - Red Light Green light",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
         }
       ]
     },
