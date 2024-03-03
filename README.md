@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shuence)](https://github.com/shuence/github-profile-trophy)
 
-- 🔭 I’m currently working on [Elocate ♻️](https://elocateinnovate.vercel.app/)
+- 🔭 I’m currently working on [SpoonShare 🥄](https://github.com/shuence/SpoonShare)
 
 - 🌱 I’m currently learning **ReactJs & NodeJs**
 
