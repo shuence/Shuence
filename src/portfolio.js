@@ -374,6 +374,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Google Solution Challenge 2024 - Top 100 Teams",
+      subtitle: "- By Google",
+      logo_path: "gsc.png",
+      certificate_link:
+        "https://drive.google.com/file/d/172x2w0c2WylZ3K5GM7aRm1DWx7vdkrdx/view?usp=sharing",
+      alt_name: "Google Solution Challenge",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "i-nnovate Hackathon 2023",
       subtitle: "- By Intelliswift",
       logo_path: "innovate.png",
