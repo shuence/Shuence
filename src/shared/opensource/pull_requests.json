@@ -1,0 +1,438 @@
+{
+  "closed": 3,
+  "data": [
+    {
+      "id": "PR_kwDOKqiJH85f11UT",
+      "title": "Adding map",
+      "url": "https://github.com/shuence/ELocate/pull/6",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-11-19T14:50:09Z",
+      "number": 6,
+      "changedFiles": 8,
+      "additions": 863,
+      "deletions": 64,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKqiJH85f1x8K",
+      "title": "Adding map",
+      "url": "https://github.com/shuence/ELocate/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-11-19T14:04:10Z",
+      "number": 5,
+      "changedFiles": 8,
+      "additions": 841,
+      "deletions": 63,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKqiJH85f0wYP",
+      "title": "Fixed small bug ",
+      "url": "https://github.com/shuence/ELocate/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-11-18T18:32:00Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 8,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKqiJH85f0srs",
+      "title": "Adding map",
+      "url": "https://github.com/shuence/ELocate/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-11-18T17:35:24Z",
+      "number": 3,
+      "changedFiles": 3,
+      "additions": 6,
+      "deletions": 371,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKqiJH85f0sUC",
+      "title": "Add map functionality to EFacility component",
+      "url": "https://github.com/shuence/ELocate/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-11-18T17:29:07Z",
+      "number": 2,
+      "changedFiles": 9,
+      "additions": 519,
+      "deletions": 58,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKqiJH85f0f47",
+      "title": "Adding map",
+      "url": "https://github.com/shuence/ELocate/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-11-18T14:33:52Z",
+      "number": 1,
+      "changedFiles": 14,
+      "additions": 1051,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "ELocate",
+        "url": "https://github.com/shuence/ELocate",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdJizs5fQPHL",
+      "title": "Merge pull request #3 from shuence/revert-2-Homepage",
+      "url": "https://github.com/shuence/Quartetstudioz/pull/5",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-11-13T02:50:48Z",
+      "number": 5,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Quartetstudioz",
+        "url": "https://github.com/shuence/Quartetstudioz",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdJizs5eQWhl",
+      "title": "Revert 2 homepage",
+      "url": "https://github.com/shuence/Quartetstudioz/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-10-31T16:52:19Z",
+      "number": 4,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Quartetstudioz",
+        "url": "https://github.com/shuence/Quartetstudioz",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdJizs5eQWU0",
+      "title": "Revert \"Commented how it works button\"",
+      "url": "https://github.com/shuence/Quartetstudioz/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-10-31T16:51:43Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Quartetstudioz",
+        "url": "https://github.com/shuence/Quartetstudioz",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdJizs5eQUGh",
+      "title": "Commented how it works button",
+      "url": "https://github.com/shuence/Quartetstudioz/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-10-31T16:45:29Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Quartetstudioz",
+        "url": "https://github.com/shuence/Quartetstudioz",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdJizs5eQMyx",
+      "title": "Added Web Dev Page",
+      "url": "https://github.com/shuence/Quartetstudioz/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2023-10-31T16:26:26Z",
+      "number": 1,
+      "changedFiles": 24,
+      "additions": 2432,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Quartetstudioz",
+        "url": "https://github.com/shuence/Quartetstudioz",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBk7Gw85brieD",
+      "title": "Added Shuence Profile",
+      "url": "https://github.com/AliceWonderland/hacktoberfest/pull/10908",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-10-02T14:39:31Z",
+      "number": 10908,
+      "changedFiles": 2,
+      "additions": 33,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "hacktoberfest",
+        "url": "https://github.com/AliceWonderland/hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4131409?v=4",
+          "login": "AliceWonderland",
+          "url": "https://github.com/AliceWonderland"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOCzaG285MjkRS",
+      "title": "Fixes Improper padding in \"Confused? Need Help?\" modals #464",
+      "url": "https://github.com/creativecommons/chooser/pull/465",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109087089?u=29447c1c9c4dd4c9caff2d57b4f5f6c77e536009&v=4",
+        "url": "https://github.com/possumbilities",
+        "login": "possumbilities"
+      },
+      "createdAt": "2023-03-21T14:50:41Z",
+      "number": 465,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "chooser",
+        "url": "https://github.com/creativecommons/chooser",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "login": "creativecommons",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOC2syTs4-wpj4",
+      "title": "Making ui more attractive and responsive.",
+      "url": "https://github.com/scribble-rs/scribble.rs/pull/316",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-09-12T08:08:18Z",
+      "number": 316,
+      "changedFiles": 8,
+      "additions": 133,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "scribble.rs",
+        "url": "https://github.com/scribble-rs/scribble.rs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51542026?v=4",
+          "login": "scribble-rs",
+          "url": "https://github.com/scribble-rs"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGRHJds4tl1Ii",
+      "title": "Main",
+      "url": "https://github.com/shuence/Pran.ly/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2021-10-24T15:08:56Z",
+      "number": 2,
+      "changedFiles": 15,
+      "additions": 1138,
+      "deletions": 1139,
+      "baseRepository": {
+        "name": "Pran.ly",
+        "url": "https://github.com/shuence/Pran.ly",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQzNjg4Njc0",
+      "title": "its-shubham2323",
+      "url": "https://github.com/education/GitHubGraduation-2021/pull/7379",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-05-13T05:09:45Z",
+      "number": 7379,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "GitHubGraduation-2021",
+        "url": "https://github.com/education/GitHubGraduation-2021",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6667880?v=4",
+          "login": "education",
+          "url": "https://github.com/education"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE5MDg2OTM2",
+      "title": "Add files via upload",
+      "url": "https://github.com/shuence/NS-WORD/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2021-04-20T07:54:54Z",
+      "number": 1,
+      "changedFiles": 19,
+      "additions": 314,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "NS-WORD",
+        "url": "https://github.com/shuence/NS-WORD",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA1NDU2MTk3",
+      "title": "Add files via upload",
+      "url": "https://github.com/shuence/RacipeApp/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+        "url": "https://github.com/shuence",
+        "login": "shuence"
+      },
+      "createdAt": "2021-03-31T10:13:20Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 532,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "RacipeApp",
+        "url": "https://github.com/shuence/RacipeApp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/65482186?u=65a3ecbedf6b102699b966afb2508efe4155d8f3&v=4",
+          "login": "shuence",
+          "url": "https://github.com/shuence"
+        }
+      }
+    }
+  ],
+  "merged": 13,
+  "open": 2,
+  "totalCount": 18
+}

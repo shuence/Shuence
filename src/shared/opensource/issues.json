@@ -1,0 +1,405 @@
+{
+  "closed": 14,
+  "data": [
+    {
+      "id": "I_kwDOJFQEKs6AT-CT",
+      "closed": false,
+      "title": "The Api Keys and Database Credentials  are clearly visible ",
+      "createdAt": "2024-02-25T11:24:38Z",
+      "url": "https://github.com/AOSSIE-Org/Resonate/issues/273",
+      "number": 273,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Resonate",
+        "url": "https://github.com/AOSSIE-Org/Resonate",
+        "owner": {
+          "login": "AOSSIE-Org",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38881995?v=4",
+          "url": "https://github.com/AOSSIE-Org"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAPA-oM5hg7Qg",
+      "closed": true,
+      "title": "[Feature] Adding Footer",
+      "createdAt": "2023-03-22T15:35:19Z",
+      "url": "https://github.com/creativecommons/cc-resource-archive/issues/104",
+      "number": 104,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cc-resource-archive",
+        "url": "https://github.com/creativecommons/cc-resource-archive",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOCzaG285hgtO2",
+      "closed": false,
+      "title": "[Feature] Dockerize the App",
+      "createdAt": "2023-03-22T15:09:36Z",
+      "url": "https://github.com/creativecommons/chooser/issues/469",
+      "number": 469,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "chooser",
+        "url": "https://github.com/creativecommons/chooser",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAPA-oM5hXBcH",
+      "closed": true,
+      "title": "Redesigning of Header and Including Navbar",
+      "createdAt": "2023-03-21T08:25:48Z",
+      "url": "https://github.com/creativecommons/cc-resource-archive/issues/94",
+      "number": 94,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cc-resource-archive",
+        "url": "https://github.com/creativecommons/cc-resource-archive",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODqGIis5Q5AE3",
+      "closed": true,
+      "title": "I'm unable to find preloder class",
+      "createdAt": "2022-08-31T10:15:47Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/241",
+      "number": 241,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "login": "ashutosh1919",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOC2syTs5N6STJ",
+      "closed": true,
+      "title": "I clone the repo I'm getting this error ",
+      "createdAt": "2022-07-17T15:12:12Z",
+      "url": "https://github.com/scribble-rs/scribble.rs/issues/315",
+      "number": 315,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "scribble.rs",
+        "url": "https://github.com/scribble-rs/scribble.rs",
+        "owner": {
+          "login": "scribble-rs",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51542026?v=4",
+          "url": "https://github.com/scribble-rs"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODtm-s85DkTk5",
+      "closed": true,
+      "title": "I'm getting this SyntaxError Anyone help out please 🙂",
+      "createdAt": "2022-02-12T03:45:27Z",
+      "url": "https://github.com/karma9874/AndroRAT/issues/120",
+      "number": 120,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AndroRAT",
+        "url": "https://github.com/karma9874/AndroRAT",
+        "owner": {
+          "login": "karma9874",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/33444666?u=236731bce6eb24fd1d94326db0c237ae34b47bd2&v=4",
+          "url": "https://github.com/karma9874"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODSHnbM5AnOio",
+      "closed": false,
+      "title": " Module not found: Can't resolve './components/ImageItem/ImageItem'",
+      "createdAt": "2021-12-19T06:30:18Z",
+      "url": "https://github.com/jobtoday/react-native-image-viewing/issues/122",
+      "number": 122,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-native-image-viewing",
+        "url": "https://github.com/jobtoday/react-native-image-viewing",
+        "owner": {
+          "login": "jobtoday",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14887327?v=4",
+          "url": "https://github.com/jobtoday"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5NjQ3MTUzODM=",
+      "closed": true,
+      "title": "Failed to compile ",
+      "createdAt": "2021-08-10T08:16:04Z",
+      "url": "https://github.com/expo/expo/issues/13991",
+      "number": 13991,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "expo",
+        "url": "https://github.com/expo/expo",
+        "owner": {
+          "login": "expo",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12504344?v=4",
+          "url": "https://github.com/expo"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5NDY3MDYxMjc=",
+      "closed": true,
+      "title": "I'm getting this exception 🙂",
+      "createdAt": "2021-07-17T04:21:21Z",
+      "url": "https://github.com/OWASP/QRLJacking/issues/154",
+      "number": 154,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "QRLJacking",
+        "url": "https://github.com/OWASP/QRLJacking",
+        "owner": {
+          "login": "OWASP",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/155815?v=4",
+          "url": "https://github.com/OWASP"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU5NDQwNTYwNTM=",
+      "closed": true,
+      "title": "I'm seeing these warnings while installing expo-cli .",
+      "createdAt": "2021-07-14T05:27:25Z",
+      "url": "https://github.com/expo/expo-cli/issues/3661",
+      "number": 3661,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "expo-cli",
+        "url": "https://github.com/expo/expo-cli",
+        "owner": {
+          "login": "expo",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12504344?v=4",
+          "url": "https://github.com/expo"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4ODk3NDU3MzE=",
+      "closed": true,
+      "title": "getting this error while updating package using apt update .....",
+      "createdAt": "2021-05-12T06:57:38Z",
+      "url": "https://github.com/termux/termux-app/issues/2054",
+      "number": 2054,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "termux-app",
+        "url": "https://github.com/termux/termux-app",
+        "owner": {
+          "login": "termux",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/8104776?v=4",
+          "url": "https://github.com/termux"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NzQ1MzEzNzg=",
+      "closed": true,
+      "title": "Traceback (most recent call last):",
+      "createdAt": "2021-05-03T12:30:42Z",
+      "url": "https://github.com/tensorflow/tensorflow/issues/48886",
+      "number": 48886,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59822926?v=4",
+            "name": null,
+            "url": "https://github.com/Saduf2019"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tensorflow",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "owner": {
+          "login": "tensorflow",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
+          "url": "https://github.com/tensorflow"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NzM2MDk1OTU=",
+      "closed": true,
+      "title": "windows sdk not detected error",
+      "createdAt": "2021-05-01T08:48:51Z",
+      "url": "https://github.com/microsoft/vcpkg/issues/17606",
+      "number": 17606,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/38240633?u=797b9ff79c2a43276f05e591ddbf2a13365751de&v=4",
+            "name": "Cheney Wang",
+            "url": "https://github.com/Cheney-W"
+          }
+        ]
+      },
+      "repository": {
+        "name": "vcpkg",
+        "url": "https://github.com/microsoft/vcpkg",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NzI2NzA3NDI=",
+      "closed": false,
+      "title": "getting this error 🙄",
+      "createdAt": "2021-04-30T15:01:59Z",
+      "url": "https://github.com/HACK3RY2J/PBomb/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "PBomb",
+        "url": "https://github.com/HACK3RY2J/PBomb",
+        "owner": {
+          "login": "HACK3RY2J",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60312092?v=4",
+          "url": "https://github.com/HACK3RY2J"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjQ1MTY3Njk=",
+      "closed": false,
+      "title": "Getting this error  tell me if you can help .",
+      "createdAt": "2021-04-22T04:03:16Z",
+      "url": "https://github.com/LeilaniAnn/AnonText/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AnonText",
+        "url": "https://github.com/LeilaniAnn/AnonText",
+        "owner": {
+          "login": "LeilaniAnn",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/13516405?u=1d8ba659b476d940178d74b2963947240cfb9383&v=4",
+          "url": "https://github.com/LeilaniAnn"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjI0OTcyOTQ=",
+      "closed": true,
+      "title": "getting something error like this \" %1 is not a valid Win32 application. (Error code 193) \"",
+      "createdAt": "2021-04-20T07:15:04Z",
+      "url": "https://github.com/pyinstaller/pyinstaller/issues/5755",
+      "number": 5755,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pyinstaller",
+        "url": "https://github.com/pyinstaller/pyinstaller",
+        "owner": {
+          "login": "pyinstaller",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1215332?v=4",
+          "url": "https://github.com/pyinstaller"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjA5MDgxODc=",
+      "closed": true,
+      "title": "Extension issue",
+      "createdAt": "2021-04-19T05:25:03Z",
+      "url": "https://github.com/microsoft/vscode/issues/121615",
+      "number": 121615,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/641685?v=4",
+            "name": "Eric Amodio",
+            "url": "https://github.com/eamodio"
+          }
+        ]
+      },
+      "repository": {
+        "name": "vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDU3ODc4MjA=",
+      "closed": true,
+      "title": "Traceback (most recent call last):",
+      "createdAt": "2021-03-31T03:50:54Z",
+      "url": "https://github.com/Datalux/Osintgram/issues/121",
+      "number": 121,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Osintgram",
+        "url": "https://github.com/Datalux/Osintgram",
+        "owner": {
+          "login": "Datalux",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26717218?u=560d1ce8e49270894d0b31f11d9dd92a8e98e031&v=4",
+          "url": "https://github.com/Datalux"
+        }
+      }
+    }
+  ],
+  "open": 5,
+  "totalCount": 19
+}
