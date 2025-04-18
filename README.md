@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuence&label=Profile%20views&color=000000&style=flat" alt="shuence" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Artinity](https://github.com/ArtinityHQ)<br><br>- 🌱 I’m currently learning **Flutter**<br><br>- 👨‍💻 All of my projects are available at [https://shuence.com/](https://shuence.com/)<br><br>- 💬 Ask me about **ReactJs & NodeJs Asap**<br><br>- 📫 How to reach me **<Shuence025@gmail.com>**<br><br>- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VPAsz1NTELcNNoEmZRSFxecw3nfUmahi/view?usp=sharing)<br><br>- ⚡ Fun fact **I think I'm Crazy ✨**
+- 🔭 I’m currently working on [Calex](https://calex.pro)<br><br>- 🌱 I’m currently learning **Flutter**<br><br>- 👨‍💻 All of my projects are available at [https://shuence.com/](https://shuence.com/)<br><br>- 💬 Ask me about **ReactJs & NodeJs Asap**<br><br>- 📫 How to reach me **<Shuence025@gmail.com>**<br><br>- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VPAsz1NTELcNNoEmZRSFxecw3nfUmahi/view?usp=sharing)<br><br>- ⚡ Fun fact **I think I'm Crazy ✨**
 
 
 ## 🌐 Socials:
