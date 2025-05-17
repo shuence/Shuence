@@ -66,7 +66,6 @@
     "logo": "https://shuence.com/og_image.png"
   }
   </script>
-
   <!-- Theme initialization script -->
   <script>
     (function () {
@@ -74,7 +73,13 @@
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       const theme = storedTheme || (prefersDark ? 'dark' : 'light');
       document.documentElement.classList.toggle('dark', theme === 'dark');
-      document.body.classList.toggle('dark-theme', theme === 'dark');
+      
+      // Ensure body exists before trying to access it
+      document.addEventListener("DOMContentLoaded", function() {
+        if (document.body) {
+          document.body.classList.toggle('dark-theme', theme === 'dark');
+        }
+      });
     })();
   </script>
 
