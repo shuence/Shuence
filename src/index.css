@@ -1,65 +1,159 @@
-@font-face {
-  font-family: "Agustina Regular";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Agustina Regular"),
-    url("./assests/fonts/Agustina.woff") format("woff");
-}
-@font-face {
-  font-family: "Montserrat";
-  src: local("Montserrat"),
-    url("./assests/fonts/Montserrat-Regular.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Bold";
-  src: local("Google Sans Bold"),
-    url("./assests/fonts/GoogleSans-Bold.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Bold Italic";
-  src: local("Google Sans Bold Italic"),
-    url("./assests/fonts/GoogleSans-BoldItalic.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Italic";
-  src: local("Google Sans Italic"),
-    url("./assests/fonts/GoogleSans-Italic.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Medium";
-  src: local("Google Sans Medium"),
-    url("./assests/fonts/GoogleSans-Medium.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Medium Italic";
-  src: local("Google Sans Medium Italic"),
-    url("./assests/fonts/GoogleSans-MediumItalic.ttf") format("woff");
-}
-@font-face {
-  font-family: "Google Sans Regular";
-  src: local("Google Sans Regular"),
-    url("./assests/fonts/GoogleSans-Regular.ttf") format("woff");
-}
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-html,
-body {
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-}
-body {
-  margin: 0;
-  font: 19px / 23px Montserrat, "Montserrat", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-/* Media Query */
-@media (max-width: 1380px) {
-  html,
-  body {
-    font-size: 16px;
-    line-height: normal;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light mode variables (default) */
+    --background: 0 0% 100%; /* White background */
+    --foreground: 0 0% 7%; /* Dark text for light mode */
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 7%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 7%;
+
+    --primary: 160 84% 39%; /* Emerald green (#059669) */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 166 73% 94%; /* Light emerald bg (#ecfdf5) */
+    --secondary-foreground: 0 0% 7%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 158 64% 86%; /* Light emerald (#d1fae5) */
+    --accent-foreground: 0 0% 7%;
+    --accent-muted: 152 76% 80%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 90%;
+    --border: 0 0% 90%; /* Light gray border */
+    --input: 0 0% 90%;
+    --ring: 160 84% 39%; /* Emerald ring (#059669) */
+
+    --radius: 0.5rem;
   }
+  /* Dark mode class */
+  .dark-theme {
+    --background: 0 0% 0%; /* Pure black for dark mode */
+    --foreground: 0 0% 90%;
+
+    --card: 0 0% 4%;
+    --card-foreground: 0 0% 90%;
+
+    --popover: 0 0% 4%;
+    --popover-foreground: 0 0% 90%;
+
+    --primary: 160 83% 39%; /* Emerald green (#10b981) */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 157 94% 5%; /* Dark green (#052e16) */
+    --secondary-foreground: 0 0% 90%;
+
+    --muted: 0 0% 10%;
+    --muted-foreground: 0 0% 63%;
+
+    --accent: 161 94% 13%; /* Rich dark green (#064e3b) */
+    --accent-foreground: 0 0% 90%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 13%;
+    --input: 0 0% 13%;
+    --ring: 160 83% 39%;
+
+    --radius: 0.75rem;
+  }
+  /* Removed duplicate dark mode class */
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings:
+      'rlig' 1,
+      'calt' 1;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading font-semibold tracking-tight;
+  }
+
+  .container {
+    @apply mx-auto max-w-[800px] px-4;
+  }
+
+  .badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium text-foreground transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+  }
+  .badge-primary {
+    @apply bg-primary text-primary-foreground;
+  }
+
+  .badge-secondary {
+    @apply bg-muted text-muted-foreground;
+  }
+}
+
+.timeline-card {
+  @apply relative animate-fade-in rounded-xl border border-border bg-card p-6 shadow-sm transition-all hover:shadow-lg;
+  animation: fade-in 0.5s forwards ease-out;
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+.timeline-card::before {
+  content: '';
+  @apply absolute -left-[25px] top-8 h-3 w-3 rounded-full bg-primary;
+  border: 2px solid hsl(var(--background));
+  z-index: 10;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s forwards ease-out;
+}
+
+.link-item {
+  @apply relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:bg-primary after:transition-all hover:after:w-full;
+}
+
+.social-icon {
+  @apply transition-all hover:scale-110 hover:text-primary;
+}
+
+.project-card {
+  @apply rounded-xl border border-border bg-card p-6 shadow-md transition-all hover:shadow-lg;
+}
+
+.section-title {
+  @apply mb-6 text-2xl font-semibold text-foreground;
+}
+
+.skill-badge {
+  @apply m-1 rounded-full bg-secondary px-3 py-1 text-xs font-medium text-secondary-foreground;
+}
+
+.honor-card {
+  @apply mb-4 rounded-r-lg border-l-4 border-primary bg-card py-2 pl-4 shadow-sm;
 }

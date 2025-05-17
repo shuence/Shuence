@@ -1,6 +1,23 @@
-.github
-images
-node_modules
+# Ignore artifacts
+dist
 build
-public
-*.json
+coverage
+node_modules
+
+# Ignore generated files
+*.min.js
+*.min.css
+
+# Ignore package files
+package-lock.json
+yarn.lock
+bun.lockb
+
+# Other files
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Ignore Vite build files
+vite.config.js.timestamp-*

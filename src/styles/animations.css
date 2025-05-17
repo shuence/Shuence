@@ -1,0 +1,109 @@
+/* Custom animations for consistent component rendering */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  70% {
+    transform: scale(1.05);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-custom-fade-in {
+  animation: fade-in 0.5s forwards ease-out;
+  opacity: 1 !important;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.6s forwards ease-out;
+}
+
+.animate-pop-in {
+  animation: pop-in 0.5s forwards cubic-bezier(0.26, 1.32, 0.46, 0.98);
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Timeline card styling fixes */
+.timeline-card {
+  position: relative;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background-color: rgba(var(--card) / 0.9);
+  border: 1px solid rgba(var(--border) / 1);
+  animation: fade-in 0.5s forwards ease-out;
+  opacity: 1 !important;
+}
+
+.timeline-card::before {
+  content: '';
+  position: absolute;
+  width: 0.75rem;
+  height: 0.75rem;
+  background-color: #10b981;
+  border-radius: 50%;
+  left: -25px;
+  top: 1.5rem;
+  border: 2px solid hsl(var(--background));
+  z-index: 10;
+}
+
+/* Text visibility fixes */
+.text-visible {
+  color: hsl(var(--foreground));
+  font-weight: 500;
+}

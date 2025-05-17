@@ -1,0 +1,108 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Shubham Pitekar (Shuence) | Software Engineer & Startup Evangelist</title>
+
+  <!-- Primary Meta Tags -->
+  <meta name="description" content="Shubham Pitekar (Shuence) – Software Engineer, Startup Evangelist & Professional Stargazer. Building Calex, an AI-powered wellness platform reshaping health tech." />
+  <meta name="keywords" content="Shuence, Shubham Pitekar, Software Engineer, AI Wellness App, Calex, MERN Developer, Flutter, Health Tech Founder, Portfolio, Startup Evangelist" />
+  <meta name="author" content="Shubham Pitekar" />
+  <link rel="canonical" href="https://shuence.com/" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Shubham Pitekar (Shuence) | Software Engineer & Startup Evangelist" />
+  <meta property="og:description" content="Building Calex – an AI-powered wellness companion revolutionizing health tech." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://shuence.com" />
+  <meta property="og:image" content="https://shuence.com/og_image.png" />
+  <meta property="og:image:alt" content="Shubham Pitekar Portfolio Preview" />
+  <meta property="og:site_name" content="Shuence" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Shubham Pitekar (Shuence) | Software Engineer & Startup Evangelist" />
+  <meta name="twitter:description" content="Building Calex – an AI-powered wellness companion. Explore my projects, journey, and startup vision in health tech." />
+  <meta name="twitter:site" content="@shuence" />
+  <meta name="twitter:image" content="https://shuence.com/og_image.png" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://avatars.githubusercontent.com/u/65482186?v=4" type="image/png" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Shubham Pitekar",
+    "alternateName": "Shuence",
+    "url": "https://shuence.com",
+    "image": "https://shuence.com/og_image.png",
+    "jobTitle": "Software Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Calex"
+    },
+    "sameAs": [
+      "https://github.com/shuence",
+      "https://twitter.com/shuence",
+      "https://linkedin.com/in/shuence"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Calex",
+    "description": "AI-powered wellness companion built to track nutrition, sleep, and mood, and provide personalized fitness guidance.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Calex"
+    },
+    "url": "https://shuence.com",
+    "logo": "https://shuence.com/og_image.png"
+  }
+  </script>
+
+  <!-- Theme initialization script -->
+  <script>
+    (function () {
+      const storedTheme = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme = storedTheme || (prefersDark ? 'dark' : 'light');
+      document.documentElement.classList.toggle('dark', theme === 'dark');
+      document.body.classList.toggle('dark-theme', theme === 'dark');
+    })();
+  </script>
+
+  <!-- SPA Routing Script (GitHub Pages, Netlify, etc.) -->
+  <script type="text/javascript">
+    (function (l) {
+      if (l.search[1] === '/') {
+        var decoded = l.search
+          .slice(1)
+          .split('&')
+          .map(function (s) {
+            return s.replace(/~and~/g, '&');
+          })
+          .join('?');
+        window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+      }
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const route = urlParams.get('route');
+      if (route) {
+        urlParams.delete('route');
+        const newUrl =
+          window.location.pathname.split('?')[0] +
+          (urlParams.toString() ? '?' + urlParams.toString() : '') +
+          '#/' +
+          route;
+        window.history.replaceState(null, null, newUrl);
+      }
+    })(window.location);
+  </script>
+</head>
