@@ -1,28 +1,198 @@
-<h1 align="center">Hi 👋, I'm Shuence</h1>
-<h3 align="center">A Programming Enthusiast 💫</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuence&label=Profile%20views&color=000000&style=flat" alt="shuence" /> </p>
+# Shuence
 
-# 💫 About Me:
+### Building products at the intersection of AI, design & human emotion.
 
-- 🔭 I’m currently working on [Calex](https://calex.pro)<br><br>- 🌱 I’m currently learning **Flutter**<br><br>- 👨‍💻 All of my projects are available at [https://shuence.com/](https://shuence.com/)<br><br>- 💬 Ask me about **ReactJs & NodeJs Asap**<br><br>- 📫 How to reach me **<Shuence025@gmail.com>**<br><br>- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VPAsz1NTELcNNoEmZRSFxecw3nfUmahi/view?usp=sharing)<br><br>- ⚡ Fun fact **I think I'm Crazy ✨**
+<p align="center">
+  Founder • Full Stack Engineer • Dreamer of Impossible Things
+</p>
 
-## 🌐 Socials:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shuence&label=Profile%20Views&color=111111&style=flat" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuence) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuence) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shuence)
+<p align="center">
+  <a href="https://shuence.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-# 💻 Tech Stack:
+  <a href="https://x.com/shuence">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  <a href="https://linkedin.com/in/shuence">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-# 📊 GitHub Stats:
+  <a href="mailto:Shuence025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Shuence&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shuence&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuence&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Shuence&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=15" 
+  height="170"
+/>
 
-![](https://github-profile-trophy.vercel.app/?username=Shuence&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ---
+
+# About
+
+I build products from **0 → 1** with a focus on thoughtful experiences, beautiful interfaces, scalable systems, and emotionally meaningful technology.
+
+Currently exploring:
+- AI-native applications
+- Human-centered product design
+- Spatial & futuristic interfaces
+- Startup ecosystems and product innovation
+
+---
+
+# Featured Projects
+
+## [Folio](https://getfolio.arovi.app)
+
+A digital memory platform designed to preserve emotions, stories, and meaningful moments forever.
+
+**Tech:** Next.js • AI • Motion Design • Cloud Infrastructure
+
+---
+
+## [Calex](https://www.shuence.com/work/calex)
+
+An AI-powered wellness ecosystem combining nutrition, tracking, and intelligent health insights.
+
+**Tech:** Flutter • AI • Firebase • Health APIs
+
+---
+
+## [SpoonShare](https://github.com/shuence/spoonshare)
+
+A sustainable food-sharing ecosystem focused on reducing food waste and building a circular economy through technology.
+
+**Tech:** Flutter • Firebase • Sustainability Tech
+
+---
+
+## [Portfolio](https://shuence.com)
+
+Personal portfolio showcasing projects, experiments, design philosophy, and engineering journey.
+
+**Tech:** Next.js • TailwindCSS • Framer Motion
+
+---
+
+# Skills & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=F05138" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs_&_RAG-111111?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Qdrant-111111?style=for-the-badge&logo=qdrant&logoColor=FF4F8B" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shuence&bg_color=000000&color=ffffff&line=ffffff&point=aaaaaa&area=true&hide_border=true" 
+  width="95%"
+/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Shuence&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+/>
+
+</div>
+
+---
+
+# Philosophy
+
+<div align="center">
+
+> Build things people remember.
+
+<br>
+
+### Let's build something meaningful.
+
+<a href="https://shuence.com">shuence.com</a>
+
+</div>
